@@ -19,7 +19,7 @@ x=whisper("COMPUTER")
 print(x)
 
 
-
+# random change
 # 3. Write a function called how_many_letters that takes in a string as an argument and returns the number of letters in that string.
 
 def how_many_letters(letters):
